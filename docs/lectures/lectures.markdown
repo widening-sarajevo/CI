@@ -11,4 +11,7 @@ nav_order: 2
 [Explanation](https://raw.githubusercontent.com/widening-sarajevo/CI/main/docs/lectures/EUI_Widening_2024_Glossary.pdf){: .btn .btn-green .mr-3}
 
 
+[Part 3](https://raw.githubusercontent.com/widening-sarajevo/CI/main/docs/lectures/EUI_Widening_2024_CI_Part3.pdf){: .btn .btn-blue .mr-3}
+
+
 

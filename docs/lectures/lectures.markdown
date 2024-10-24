@@ -15,3 +15,6 @@ nav_order: 2
 
 
 
+[Part 4](https://raw.githubusercontent.com/widening-sarajevo/CI/main/docs/lectures/EUI_Widening_24_CI_Part4.pdf){: .btn .btn-blue .mr-3}
+[Part 5](https://raw.githubusercontent.com/widening-sarajevo/CI/main/docs/lectures/EUI_Widening_24_CI_Part5.pdf){: .btn .btn-blue .mr-3}
+
